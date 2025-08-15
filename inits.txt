@@ -1,5 +1,4 @@
 npm init -y
-npm i express
 npm i -D typescript ts-node-dev @types/node @types/express
+npm i express typeorm reflect-metadata mysql2 dotenv
 npx tsc --init
-npm i mysql2
